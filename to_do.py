@@ -2,17 +2,6 @@
 """
 Project Idea: To-Do List Manager
 
-Description:
-Create a command-line to-do list manager using Python. This program will allow users to add tasks, mark tasks as completed, view their to-do list, and save their to-do list to a file. It will also have the functionality to load a previously saved to-do list from a file.
-
-Features:
-
-1. Add tasks to the to-do list.
-2. Mark tasks as completed.
-3. View the current to-do list.
-4. Save the to-do list to a file.
-5. Load a to-do list from a file.
-6. Option to delete tasks from the to-do list.  
 """
 
 def add_task(todo_list, task):
